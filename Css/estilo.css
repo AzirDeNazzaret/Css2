@@ -1,0 +1,14 @@
+.titulo
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+}
+
+body
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
